@@ -16,4 +16,5 @@ h4{
 }
 .juxtapose{ 
     align-items: center;
+    justify-content: center;
 }
