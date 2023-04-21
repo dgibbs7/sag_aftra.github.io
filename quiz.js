@@ -32,7 +32,7 @@ let choices8= ["Ronald Reagan","George Heller","Groucho Marx"]
 let correctAnswer8= [1]
 
 let questions9= ["How did SAG-AFTRA handle the Covid-19 Pandemic?"]
-let choices9= ["Ronald Reagan","George Heller","Groucho Marx"]
+let choices9= ["Ronald Reagan","George Heller","Groucho Marx"]h
 let correctAnswer9= [1]
 
 let questions10= ["Who was the founder of the American Federation of Radio Artists or AFRA?"]
@@ -57,7 +57,7 @@ function displayQuestion() {
 
     // Now, you should create and display choices for the current question (3 steps):
     // The steps are: Create an unordered list element, create list items with the content of multiple choice answers, add the list to quizDiv
-    // Here's a further breakdown of these 3 steps:
+    // Here's a further breakdown of these 3 steps: 
     
     // !! First: Create a 'ul' (unordered list) element and name it answerList. This will include all the choices for the current question.
 
