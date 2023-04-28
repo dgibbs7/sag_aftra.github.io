@@ -1,4 +1,16 @@
 //!! Write an *array of objects* and name it questions. Each object in this array includes "question," "choices," and "correctAnswer" as properties. 
+let questions= [
+    {question: 'What does SAG-AFTRA stand for?', let choices: ['Screen Actor’s Guild- American Federation of Television and Radio Artists', 'Screen Artist’s Guild- American Federation of Television and Radio Agents', 'Screen Actor’s Guild- American Federation of Television and Radio Agents', 'Screen Artist’s Guild- American Foundation of Television and Radio Artists',] 
+correctAnswer:0} ]
+   
+
+
+
+
+
+let correctAnswer1= [0]
+    "In what year was SAG-AFTRA founded? (Note: Separate from SAG)","Which area is guaranteed to be protected by SAG-AFTRA?","Who was the founder of the American Federation of Radio Artists or AFRA?","What projects typically have set schedules and higher pay, union or non union?" }
+]
 {let questions1= ["What does SAG-AFTRA stand for?"]
 let choices1= ["Screen Actor’s Guild- American Federation of Television and Radio Artists", "Screen Artist’s Guild- American Federation of Television and Radio Agents", "Screen Actor’s Guild- American Federation of Television and Radio Agents", "Screen Artist’s Guild- American Foundation of Television and Radio Artists"]
 let correctAnswer1= [0]
@@ -50,7 +62,7 @@ let score = 0; //Storing the number of times the user chose the correct answer. 
 
 function displayQuestion() {
     // !! Write a line of code that gets access to the div element with quiz id in our HTML code. Stores the element in a variable named quizDiv.
-
+getElementById(quizDiv)
     quizDiv.innerText = ''; // Clearing previous content in the quizDiv to display new question and answers every time this function is called.
 
     // !! Create and display the current question (3 lines of code): Create an 'h2' element whose text is the current question and append it to quizDiv
