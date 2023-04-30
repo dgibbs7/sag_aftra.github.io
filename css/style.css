@@ -41,7 +41,8 @@ iframe{
 
  }
 a{
-margin-left: 50px;
+    margin-left: 50px;
+    text-decoration: none;
 }
 
 img.castingImages {
