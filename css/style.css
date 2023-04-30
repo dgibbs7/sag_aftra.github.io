@@ -44,9 +44,13 @@ a{
 margin-left: 50px;
 }
 
-img.Amaya {
+img.castingImages {
     size: 200px;
     align-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 h3.menuSpace {
