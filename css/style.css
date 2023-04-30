@@ -1,6 +1,7 @@
 .title1{
     text-align: center;
     font-size: 50px;
+    font-family: 'Playbill';
 }
 h2{
     text-align: center;
@@ -37,3 +38,10 @@ iframe{
         width: 33%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
         text-align: center; /* If you want the text to be centered */
  }
+
+ @font-face {
+    font-family: 'Playbill';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Playbill'), url('https://fonts.cdnfonts.com/s/12936/Playbill.woff') format('woff');
+}
