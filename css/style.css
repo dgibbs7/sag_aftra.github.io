@@ -5,7 +5,7 @@
 }
    
 h2{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
     font-size: 50px;
 }
@@ -41,9 +41,3 @@ iframe{
         text-align: center; /* If you want the text to be centered */
  }
 
- @font-face {
-    font-family: 'Playbill';
-    font-style: normal;
-    font-weight: 400;
-    src: local('Playbill'), url('https://fonts.cdnfonts.com/s/12936/Playbill.woff') format('woff');
-}
