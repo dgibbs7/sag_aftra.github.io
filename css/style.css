@@ -40,7 +40,10 @@ iframe{
         text-align: center; /* If you want the text to be centered */
 
  }
-
 a{
 margin-left: 50px;
+}
+
+img.Amaya {
+    size: 200px;
 }
