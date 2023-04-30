@@ -31,8 +31,6 @@ iframe{
      width: 100%;
         background-color:grey;
         overflow: auto;
-      }
- .navbar a {
         float: left;
         padding: 12px;
         color:white;
