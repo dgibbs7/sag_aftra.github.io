@@ -32,11 +32,15 @@ iframe{
         background-color:grey;
         overflow: auto;
         float: center;
-        padding: 40px;
+        padding: 0px;
         color:white;
         text-decoration: none;
         font-size: 30px;
         margin: auto;
         text-align: center; /* If you want the text to be centered */
+
  }
 
+a{
+margin-left: 20px;
+}
