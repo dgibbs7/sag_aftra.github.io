@@ -58,3 +58,8 @@ img.castingImages {
 h3.menuSpace {
     background-color: white;
 }
+
+.progressimages {
+    size: 50px;
+    align-items: center;
+}
