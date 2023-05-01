@@ -60,6 +60,7 @@ h3.menuSpace {
 }
 
 img.progressimages {
-    size: 70px;
+    height: 100px;
+    width: 80px;
     align-items: center;
 }
