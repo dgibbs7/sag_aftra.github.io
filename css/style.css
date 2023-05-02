@@ -1,5 +1,5 @@
 .title1{
-    font-family: Copperplate, fantasy;
+    font-family:'Baskerville',serif;
     text-align: center;
     font-size: 50px;
 }
@@ -68,7 +68,7 @@ img.progressimages {
     margin-right: auto;
 }
 .citation {
-    font-size: smaller;
+    font-size:x-small;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: left;
 }
