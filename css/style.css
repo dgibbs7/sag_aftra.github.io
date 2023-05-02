@@ -69,7 +69,7 @@ img.progressimages {
 }
 .citation {
     font-size:xx-small;
-    font-family:'Verdana', Segoe UI, Tahoma, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: left;
 }
 .timelinelist {
@@ -79,5 +79,6 @@ img.progressimages {
 }
 .question1{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: large;
+    font-size:xx-large;
+    size: 30px;
 }
