@@ -99,8 +99,10 @@ img.progressimages {
 .imgButton{ text-align:center; 
 }
 .uniontoday{
-    font-size: medium;
+    font-size:large;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .causeshome{
-    font-size: medium;
+    font-size:large;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
