@@ -68,15 +68,16 @@ img.progressimages {
     margin-right: auto;
 }
 .citation {
-    font-size:x-small;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:xx-small;
+    font-family:'Verdana', Segoe UI, Tahoma, sans-serif;
     text-align: left;
 }
 .timelinelist {
-    font-size: medium;
-    font-family:'Georgia', serif;
+    font-size: large;
+    font-family:Arial, Helvetica, sans-serif;
     font-weight: 100;
 }
 .question1{
-    font-family:'Palatino', serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
 }
