@@ -67,3 +67,7 @@ img.progressimages {
     margin-left: auto;
     margin-right: auto;
 }
+.citation {
+    size: 30px;
+    font-family:'palatino', sans-serif;
+}
