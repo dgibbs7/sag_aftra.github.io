@@ -68,6 +68,11 @@ img.progressimages {
     margin-right: auto;
 }
 .citation {
-    size: 30px;
+    size: 15px;
     font-family:'palatino', sans-serif;
+    text-align: left;
+}
+.timelinelist {
+    font-size: medium;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
