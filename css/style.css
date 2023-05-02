@@ -28,13 +28,13 @@ iframe{
 .tl-event-link{
   color: gold;
 }
-.navbar bg-light {
+.navbar{
      width: 100%;
         background-color:grey;
         overflow: auto;
         float: center;
         padding: 0px;
-        color:gold;
+        text-decoration-color: gold;
         text-decoration: none;
         font-size: 30px;
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
