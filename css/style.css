@@ -27,7 +27,7 @@ iframe{
 }
 .navbar{
      width: 100%;
-        background-color:#FFD700;
+        background-color: gray;
         overflow: auto;
         float: center;
         padding: 0px;
