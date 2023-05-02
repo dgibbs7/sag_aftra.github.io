@@ -39,6 +39,11 @@ iframe{
         text-align: center; /* If you want the text to be centered */
 
  }
+.navBtn { text-decoration: none; color:#000; }
+.navBtn:visited { text-decoration: none; color:#000; }
+.navBtn:hover { text-decoration: none; color:#000; }
+.navBtn:focus { text-decoration: none; color:#000; }
+.navBtn:hover, .navBtn:active { text-decoration: none; color:#000; }
 a{
     margin-left: 50px;
     text-decoration: none;
