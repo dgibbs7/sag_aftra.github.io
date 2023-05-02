@@ -69,10 +69,10 @@ img.progressimages {
 }
 .citation {
     font-size: smaller;
-    font-family:'Palatino', sans-serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: left;
 }
 .timelinelist {
     font-size: medium;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:'Georgia', serif;
 }
