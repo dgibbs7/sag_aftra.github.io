@@ -75,4 +75,8 @@ img.progressimages {
 .timelinelist {
     font-size: medium;
     font-family:'Georgia', serif;
+    font-weight: 100;
+}
+.question1{
+    font-family:'Palatino', serif;
 }
