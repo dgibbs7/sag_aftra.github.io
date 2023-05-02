@@ -28,7 +28,7 @@ iframe{
 .tl-event-link{
   color: gold;
 }
-.navbar {
+.navbar bg-light {
      width: 100%;
         background-color:grey;
         overflow: auto;
