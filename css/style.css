@@ -97,3 +97,11 @@ img.progressimages {
 }
 .imgButton{ text-align:center; 
 }
+.homesubhead{
+margin-top: auto;
+margin-right: auto;
+}
+.homeBody{
+    text-align: left;
+    margin-left: 0%;
+}
