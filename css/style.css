@@ -27,7 +27,7 @@ iframe{
 }
 .navbar { width: 100%; background-color:#333333; float: center; padding: 0px; text-decoration-color: #FFD700; text-decoration: #gold; font-size: 30px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; margin: auto; text-align: center;}
 
-.navbar a:visited, a:link { background-color: #333333; color: gold; padding: 14px 25px; text-align: center; text-decoration: none; display: inline-block; 
+.navbar a:visited, a:link { color: gold; padding: 14px 25px; text-align: center; text-decoration: none; display: inline-block; 
 }
         
 a{
