@@ -38,7 +38,7 @@ iframe{
     text-align: center;
 }
 
-.navbar a:visited, a:link { 
+a:visited.navbar, a:link.navbar { 
     color: gold; 
     padding: 14px 25px; 
     text-align: center; 
@@ -46,9 +46,6 @@ iframe{
     display: inline-block; 
 }
         
-a{
-    margin-left: 50px;
-    text-decoration: none;
 }
 
 img.castingImages {
