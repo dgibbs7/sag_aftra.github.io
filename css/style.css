@@ -47,7 +47,7 @@ a:visited.navbar, a:link.navbar {
 }
 
 img.castingImages {
-    position: relative
+    position: relative;
     size: 55px;
     align-content: center;
     display: block;
