@@ -84,8 +84,12 @@ img.progressimages {
     margin-right: auto; 
     display: block;
 }
-.imgButton{ text-align:center; 
+.imgButton{ 
+    text-align:center;
+    position:center;
 }
+
+
 .uniontoday{
     font-size:large;
     font-family:Arial, Helvetica, sans-serif;
