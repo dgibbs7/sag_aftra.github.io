@@ -36,10 +36,10 @@ iframe{
     text-align: center;
 }
 
-a:visited.navbar, a:link.navbar { 
+a:visited.navbarbutton, a:link.navbarbutton { 
     color: gold; 
     padding: 14px 25px; 
-    text-align: center; 
+    text-align: center;
     text-decoration: none; 
     display: inline-block; 
 }
